@@ -1,0 +1,8 @@
+@font-face{font-family:'Conv_ufonts.com_gillsans';src:url('fonts/ufonts.com_gillsans.eot');src:local('☺'), url('fonts/ufonts.com_gillsans.woff') format('woff'), url('fonts/ufonts.com_gillsans.ttf') format('truetype'), url('fonts/ufonts.com_gillsans.svg') format('svg');font-weight:normal;font-style:normal;}
+@font-face{font-family:'bodonixtregular';src:url('bodonixt-webfont.eot');src:url('bodonixt-webfont.eot?#iefix') format('embedded-opentype'),
+url('bodonixt-webfont.woff2') format('woff2'),
+url('bodonixt-webfont.woff') format('woff'),
+url('bodonixt-webfont.ttf') format('truetype'),
+url('bodonixt-webfont.svg#bodonixtregular') format('svg');font-weight:normal;font-style:normal;}
+@font-face{font-family:'33535gillsansmt';src:url('./33535gillsansmt.eot');src:local('33535gillsansmt'), url('./33535gillsansmt.woff') format('woff'), url('./33535gillsansmt.ttf') format('truetype');}
+.fontsforweb_fontid_1416{font-family:'33535gillsansmt' !important;}
