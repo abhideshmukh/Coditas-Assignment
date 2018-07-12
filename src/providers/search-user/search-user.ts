@@ -27,6 +27,12 @@ export class SearchUserProvider {
       .catch(this.handleError);
   }
 
+  getUserDetails(url){
+    return this.http.get(url)
+    .map(res => res.json())
+    .catch(this.handleError);
+  }
+
   handleError(error) {
     return Observable.throw(error.json().error || "Server error");
   }
